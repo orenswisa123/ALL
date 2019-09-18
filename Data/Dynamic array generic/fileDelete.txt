@@ -1,0 +1,8 @@
+the x cordinate is 1 : 
+the y cordinate is 1 : 
+the x cordinate is 1 : 
+the y cordinate is 4 : 
+the x cordinate is 9 : 
+the y cordinate is 7 : 
+the x cordinate is 88 : 
+the y cordinate is 7 : 
